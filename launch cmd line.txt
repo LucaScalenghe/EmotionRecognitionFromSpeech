@@ -1,0 +1,1 @@
+python '.\inference.py' --device 1 --host yourHost --port yourPort --user yourUser --password yourPassword
